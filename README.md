@@ -1,9 +1,13 @@
 # everon-car-charging
 
 Used Spring boot
+
 Used ConcurrentHashMap to acieve thread safety and required time complexity(insertions and retrievals)
+
 Assumptions Made: 
+
 http://localhost:8080/chargingSessions/{id}  id here is UUID,  not the charging station id
+
 
 run the following command to build the project that creates car-charging-app-0.0.1-SNAPSHOT.jar in target folder
 
